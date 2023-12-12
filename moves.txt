@@ -1,0 +1,11 @@
+10 8 red
+10 9 black
+10 10 red
+10 11 black
+10 12 red
+11 5 black
+11 8 red
+11 9 black
+11 10 red
+11 11 black
+11 12 red
